@@ -21,6 +21,6 @@ Create an image of a confident professional man standing in a modern office envi
 ```
 
 meta-begin
-{}
+{"name:"Alex Rogers"}
 meta-end
 
