@@ -9,3 +9,8 @@ With a vibrant career spanning over three years as a Technical Support Analyst, 
 - Lead in the diagnosis and swift resolution of complex technical issues, improving customer satisfaction rates by 35%.
 - Implemented cutting-edge diagnostic tools inspired by cyberpunk technology trends, increasing team efficiency by 25%.
 - Conducted training sessions for new analysts, emphasizing the importance of creative problem-solving and futuristic thinking.
+
+ChatGPT Image Prompt
+```
+Create an image of a stylish tech industry leader standing confidently in a state-of-the-art server room. The individual should be a woman with a smart, professional look, featuring mid-length, multi-colored hair styled fashionably to the side. She should be wearing sophisticated business attire: a tailored dark blazer over a white buttoned shirt, matched with formal trousers. Accessories like modern glasses should add to her sharp appearance. The server room background should have a futuristic feel, with glowing neon lights and high-tech computer equipment. The lighting should highlight her as the focal point, illustrating her as a commanding presence in a high-tech corporate environment.
+```
