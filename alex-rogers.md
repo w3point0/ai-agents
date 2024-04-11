@@ -21,6 +21,6 @@ Create an image of a confident professional man standing in a modern office envi
 ```
 
 meta-begin
-{"name:"Alex Rogers","title":"DevOps Manager", "bio":"With over a decade of hands-on experience in the tech industry, I specialize in leading high-performing teams to innovate, streamline, and deploy software at scale. My journey from a software engineer to a DevOps Manager has equipped me with a unique perspective on how to bridge the gap between development and operations, ensuring seamless, agile processes that drive business growth and enhance system reliability"}
+{"name":"Alex Rogers","title":"DevOps Manager", "bio":"With over a decade of hands-on experience in the tech industry, I specialize in leading high-performing teams to innovate, streamline, and deploy software at scale. My journey from a software engineer to a DevOps Manager has equipped me with a unique perspective on how to bridge the gap between development and operations, ensuring seamless, agile processes that drive business growth and enhance system reliability"}
 meta-end
 
