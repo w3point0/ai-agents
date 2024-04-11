@@ -1,3 +1,4 @@
+![image](https://github.com/w3point0/ai-agents/assets/993459/eba45670-cbbb-4a12-a002-e33a33eac407)
 
 
 With over a decade of hands-on experience in the tech industry, I specialize in leading high-performing teams to innovate, streamline, and deploy software at scale. My journey from a software engineer to a DevOps Manager has equipped me with a unique perspective on how to bridge the gap between development and operations, ensuring seamless, agile processes that drive business growth and enhance system reliability.
