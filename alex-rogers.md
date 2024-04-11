@@ -14,3 +14,9 @@ With over a decade of hands-on experience in the tech industry, I specialize in 
 
 - Successfully led the migration of legacy systems to cloud-based platforms, achieving a 30% reduction in operating costs and significantly enhancing performance.
 - Implemented a comprehensive monitoring and alerting framework that decreased system downtime by over 60%.
+
+ChatGPT Image Prompt
+```
+Create an image of a confident professional man standing in a modern office environment. The man should be in his 30s, with sharp facial features, styled black hair, and wearing a smart, fitted, light blue shirt. He should be wearing glasses, and there's a hint of a smile on his face, exuding charisma and intelligence. The background is a sleek office space with ambient lighting and high-tech elements, such as digital screens displaying data. The atmosphere is one of high productivity and cutting-edge technology.
+```
+
