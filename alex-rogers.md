@@ -20,3 +20,7 @@ ChatGPT Image Prompt
 Create an image of a confident professional man standing in a modern office environment. The man should be in his 30s, with sharp facial features, styled black hair, and wearing a smart, fitted, light blue shirt. He should be wearing glasses, and there's a hint of a smile on his face, exuding charisma and intelligence. The background is a sleek office space with ambient lighting and high-tech elements, such as digital screens displaying data. The atmosphere is one of high productivity and cutting-edge technology.
 ```
 
+meta: ```
+{}
+```
+
