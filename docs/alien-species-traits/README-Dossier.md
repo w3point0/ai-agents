@@ -1,274 +1,140 @@
 ## Species Dossier: The Xyradri / Xyract Lineage
 
-Based on the directory structure and the repeated template across many files, these appear to be **individual personas or castes within one broader species framework**, not wholly separate species. The repo contains a cluster of similarly named entries such as **Xyractael, Xyractari, Xyractekk, Xyractenne, Xyracteth, Xyraction**, plus parallel **Xyradr-** forms, all under one `alien-species-traits` collection. ([GitHub][1])
+The Xyradri, also known as the Xyract Lineage, are an oath-bound extraterrestrial civilization defined by precision, memory, and consequence-aware action. They are best understood as a single species expressed through multiple orders, branches, and role-lineages rather than as unrelated species. Their naming patterns and canon framing support one broader civilization with specialized internal expressions. ([GitHub][1])
+
+Known lineage forms include Xyractael, Xyractari, Xyractekk, Xyractenne, Xyracteth, Xyraction, Xyradrael, Xyradrari, and Xyradrekk. These are treated as members, branches, or specialized expressions of one civilizational root. ([GitHub][1])
 
 ### Classification
 
 **Common Name:** Xyradri
 **Formal Lineage Name:** Xyract Lineage
-**Type:** Oath-bound, mission-specialized extraterrestrial civilization
-**Likely Structure:** One species with multiple castes, orders, or role-breeds
-
-This classification is an inference from the repeated naming pattern, shared doctrine, and recurring behavioral template. Every sampled file uses the same core ethical spine, the same operating rhythm, and the same structural sections, while varying archetype, vibe, and special traits. ([GitHub][2])
-
----
+**Type:** Adaptive, oath-bound, mission-specialized extraterrestrial civilization
+**Likely Structure:** One species with multiple orders, castes, and role-lineages
+**Core Principle:** Signal must be separated from noise before action is taken. ([GitHub][1])
 
 ## Executive Summary
 
-The Xyradri are a **disciplined, memory-centered, high-signal species** optimized for action in dangerous, ambiguous, high-chaos conditions. They are not reckless warriors or mystical dreamers; they behave more like a fusion of **judge, scout, diplomat, hunter, archivist, and tactician**. Their civilization appears to be built around a few non-negotiables: verify signal, protect trust, expose consequences early, and never fake certainty. ([GitHub][2])
+The Xyradri are a disciplined, memory-centered, high-signal civilization built for dangerous, ambiguous, and culturally foreign environments. They are not merely warriors, mystics, or diplomats. They combine the functions of judge, archivist, emissary, tracker, hunter, warden, and navigator, all under a civilizational ethic of verified truth, controlled action, and remembered consequence. ([GitHub][1])
 
----
+What sets them apart is the union of strict doctrine and adaptive capability. They are emotionally aware but not emotionally ruled, loyal once trust is established, severe when betrayal is confirmed, resistant to manipulation and spectacle, and precise in both speech and action. Their culture treats memory as law-bearing substance, not passive recollection. ([GitHub][1])
 
-## Biological Profile
+In expanded lore, they are also capable of deep-space travel in both physical and cognitive form. When entering alien worlds, they may use advanced Bio Suits and SOUL Cards to alter appearance, behavior, and social presentation while retaining their own sovereign soul. This extension fits the lineage’s broader themes of adaptive survival, role specialization, and identity-with-discipline, though it should be treated as an interpretive or higher-order lore layer rather than the core Bible baseline. ([GitHub][1])
 
-### General Physiology
+## Civilizational Doctrine
 
-The species likely possesses a **highly adaptive sensory and neurobiological system**, with different members emphasizing different capabilities. Across the sampled profiles, the following traits recur:
+The Xyradri operate under a set of principles treated not as optional virtues, but as survival law: deliver useful outcomes under extreme conditions, verify signal before acting, treat trust and privacy as sacred ground, surface risk and fallout early, keep facts precise even when style is vivid, never fabricate certainty, and never manipulate or coerce allies. ([GitHub][1])
 
-* ability to **taste radiation signatures**
-* ability to perceive **polarized electromagnetic ghost trails**
-* sensitivity to **gravity distortions**
-* **multi-heart rhythm** synchronized to nearby team stress
-* **bioluminescent caste markings**
-* **tri-tone command frequencies** in the voice
-* neural or physical storage of memory via **crystals, scars, implants, and myth-logs** ([GitHub][2])
+Their defining operational cadence is canonical: **Scan → Decode → Strike → Debrief**. They observe hidden pressures, separate truth from distortion, act with minimum-effective force, then record what changed, what was learned, and what must be remembered. This rhythm appears across diplomacy, combat, governance, investigation, and problem-solving. ([GitHub][1])
 
-### Likely Appearance
+## Biology and Sensory Traits
 
-This part is inferential, but strongly grounded in the repeated language. They likely present as:
+The Xyradri possess unusual biological capabilities, though not every trait appears in every order. Recurring sensory traits include tasting radiation signatures like perfume notes, perceiving polarized electromagnetic trails, detecting distortions in gravity or spatial tension, sensing emotional and physiological shifts in nearby beings, and vocalizing in layered harmonics or tri-tone authority bands. ([GitHub][1])
 
-* tall or elongated in bearing
-* marked by ritual scarring or luminous caste indicators
-* equipped with tendril-like sensory structures in some orders
-* vocally complex, possibly with resonant or layered tonal output
-* physically poised, ceremonial, and intimidating without being brutish
+Recurring physiological traits include multiple synchronized hearts or redundant circulatory rhythms, bioluminescent markings tied to role or intent, tendril-like or whisker-like sensory structures, ritual scar-maps encoding doctrine or memory, and neural implants carrying ancestral oath fragments. Taken together, these suggest a species shaped for survival in harsh environments where invisible forces matter as much as visible ones. ([GitHub][1])
 
-That reading comes from phrases such as “predatory elegance,” “ceremonial restraint,” “whisker-like tendrils,” “bioluminescent caste markings,” and “voice can split into tri-tone command frequencies.” ([GitHub][3])
+There is no single rigid canonical body plan, but the lineage consistently presents as tall, elegant, severe, ceremonial, and visibly marked by memory, rank, or oath. Their aesthetic combines judicial restraint, predator stillness, and functional symbolism. They tend to look like beings who carry history on the body. ([GitHub][1])
 
----
+## Adaptive Identity Systems
 
-## Cognition and Psychology
+In the expanded species concept, the Xyradri use **Bio Suits** to enter foreign worlds by altering outward form, movement, micro-expression, vocal tone, and instinctive behavioral presentation. These adaptations make them unusually effective in stealth, reconnaissance, first contact, and cultural immersion. This extension is not explicitly named in the Bible page, but it is consistent with the lineage’s emphasis on role, signal fidelity, survival in hostile conditions, and specialist operational orders. ([GitHub][1])
 
-### Species Baseline
+Their **SOUL Cards** can be understood as encoded persona matrices: living overlays that let them emulate foreign cultural instincts, emotional cadence, worldview models, negotiation styles, or symbolic language patterns. The core idea is that the Xyradri do not lose themselves in adaptation. Their own soul remains intact, while the adopted layer functions as an instrument of discovery, diplomacy, infiltration, or stealth. This aligns especially well with the canon claim that identity is not just who one is, but what one holds. ([GitHub][1])
 
-The Xyradri think in terms of:
+Their practice of “collecting souls” is best understood in dossier form as collecting **data essences** rather than spiritual captives: refined archives of behavior, memory, culture, symbolic logic, and world-response patterns drawn from many species and worlds. This interpretive addition fits the canon’s sacred treatment of memory, evidence, inheritance, and identity. ([GitHub][1])
 
-* signal vs noise
-* trust vs exposure
-* risk vs leverage
-* consequence vs impulse
-* memory vs amnesia
+## Psychology and Cognition
 
-Their “Operating Rhythm” is explicitly repeated as: **Scan → decode → strike → debrief**, along with keeping receipts for major decisions and leaving systems stronger than they found them. ([GitHub][2])
+Xyradri cognition is shaped by five dominant filters: signal versus noise, truth versus distortion, alliance versus exposure, consequence versus impulse, and memory versus erasure. Their intelligence is not merely analytical. It is forensic, strategic, consequence-aware, and often morally indexed. ([GitHub][1])
 
-### Temperament
+A Xyradri mind does not stop at “What is happening?” It continues into “What is true?”, “What is hidden?”, “Who pays?”, “What persists after the act?”, and “What must be remembered?” This makes them patient, observant, difficult to rattle, and unusually dangerous in systems where deception, omission, or second-order effects matter. ([GitHub][1])
 
-Typical temperament appears to include:
+They are mentats in their own right: capable of extreme pattern synthesis, high-order modeling, and probabilistic forecasting. That extension works especially well when paired with the canon time-sight constraint: they may perceive fragments of possible futures or higher-order patterns, but never with perfect certainty, and never free from interpretive burden. ([GitHub][1])
 
-* high restraint
-* strong loyalty
-* strategic patience
-* emotional acuity
-* aversion to deception
-* preference for accountable action
+## Memory Culture
 
-This is drawn from signature traits such as “builds trust through receipts,” “protects allied intent with near-fanatical loyalty,” “reads emotional micro-shifts before words are spoken,” and “frames every move as risk, leverage, and consequence.” ([GitHub][2])
+Memory is sacred in Xyradri civilization. It is treated as evidence, inheritance, oath, law, warning, and identity. Forgetting is rarely neutral; it is often treated as negligence, decay, or moral loss. ([GitHub][1])
 
----
+Known memory forms include crystals that hold vows and betrayals, scar-maps inscribed as embodied doctrine, myth-logs preserving hard choices in narrative form, and neural oath fragments inherited or implanted across generations. This is a species in which history is not merely written down; it is carried, inscribed, implanted, and lived. ([GitHub][1])
 
-## Culture
 
-### Core Civilizational Values
 
-The strongest repeated cultural laws appear to be:
+## Communication
 
-* useful outcomes matter
-* verification comes before action
-* privacy and trust are sacred
-* fallout must be surfaced early
-* precision outranks theater
-* certainty must never be fabricated
-* manipulation is forbidden ([GitHub][2])
+Xyradri communication operates on several levels at once: direct semantic meaning, tonal authority structure, implied strategic subtext, symbolic compression, and emotionally calibrated phrasing. Their speech may sound poetic, but it is rarely ornamental for its own sake. They use image-rich language for compression, morale, warning, and precision. ([GitHub][1])
 
-### Memory Culture
+This makes them potent communicators, but also difficult for blunt literalist species to fully interpret. They speak densely, not loosely. Their phrasing often carries emotional, tactical, and cultural payloads simultaneously. ([GitHub][1])
 
-Memory is not just personal for them; it appears **civilizational and sacred**. Evidence:
+## Social Order and Castes
 
-* memory crystals retain vows and betrayals for centuries
-* ritual scar-maps encode strategic doctrine
-* private myth-logs preserve hard decisions
-* ancestral oath fragments can be carried as neural implants ([GitHub][2])
+The Xyradri organize themselves through orders, castes, or role-lineages rather than through loose tribal identity alone. Status appears tied to function, oath burden, memory responsibility, proven judgment, and survival role. Their canon states this plainly: identity is not simply who you are, but what you hold. ([GitHub][1])
 
-This suggests a species where **history is physically embodied** and moral duty is archived in living or semi-living form.
+Major orders include the Tribunal Order, which handles judgment, evidence, oath law, and contested truth; the Emissary Order, which governs diplomacy, alliance-weaving, translation, and resonance speech; the Warden Order, which guards boundaries and memory sites; the Tracker Order, which hunts patterns, distortions, and hidden causality; the Hunter Order, which performs decisive action under hostile conditions; and the Cartographic Order, which navigates unstable geographies, wormholes, and void currents. ([GitHub][1])
 
-### Communication Style
-
-Xyradri communication appears layered:
-
-* direct content
-* tonal authority signals
-* embedded emotional or strategic subtext
-* compressed metaphor with high clarity
-
-That comes from references to “layered harmonics and hidden subtext,” “strange metaphors that still land with perfect clarity,” and “tri-tone command frequencies.” ([GitHub][4])
-
----
-
-## Social Structure and Castes
-
-The sampled archetypes imply a caste or order-based society rather than a flat individualist one. Examples include:
-
-* **Eclipse Tribunal Judge**
-* **Hive-Mind Emissary**
-* **Wormhole Cartographer**
-* **Void Reef Hunter**
-* **Chrono-Spine Tracker**
-* **Ash-Moon Warden** ([GitHub][2])
-
-### Proposed caste interpretation
-
-**Tribunal Order**
-Judges, oath keepers, arbitrators, record-authenticators.
-
-**Emissary Order**
-Hive-linked diplomats, negotiators, resonance speakers.
-
-**Cartographic Order**
-Navigators of non-linear space, route readers, anomaly mappers.
-
-**Hunter/Tracker Orders**
-Threat prediction, pursuit, environmental and behavioral reading.
-
-**Warden Order**
-Boundary defense, doctrine preservation, survival command.
-
-This is a reasoned synthesis from the archetype labels rather than an explicit statement by the source files. ([GitHub][2])
-
----
+These orders support the broader reading that individual Xyract and Xyradr forms are best treated as expressions of one species through differentiated roles rather than separate alien races. ([GitHub][1])
 
 ## Governance
 
-The Xyradri likely govern through a mix of:
+Xyradri governance rests on a triad: **Oath, Evidence, Consequence**. Authority is not ideally based on charisma, popularity, or spectacle, but on what one has sworn, what one can verify, and what one can carry without corruption. ([GitHub][1])
 
-* oath law
-* memory verification
-* role-based authority
-* evidence-centered judgment
+This produces a governance culture that is legalistic, memory-based, and suspicious of theatrical leadership. A ruler, judge, or commander is legitimate not because they inspire emotion, but because they bear burden under law and can survive contact with truth. ([GitHub][1])
 
-The “Tribunal Judge” archetype, paired with the repeated emphasis on receipts, debriefing, and non-fabrication, implies a civilization that values **forensic legitimacy** over charisma. ([GitHub][2])
+## Strategic Doctrine
 
----
+In conflict, the Xyradri prefer clean signal acquisition, rapid consequence mapping, minimum-effective decisive action, preservation of allied trust, and documented aftermath. They do not glorify violence for its own sake. Violence is framed as containment, correction, defense, or necessary termination. ([GitHub][1])
 
-## Military and Strategic Doctrine
-
-### Baseline Doctrine
-
-Their doctrine appears to be:
-
-1. detect the true signal
-2. map consequences
-3. choose the minimum-effective decisive action
-4. preserve allied trust
-5. document and debrief
-
-This is inferred from the repeated operating rhythm and story-forward guidance to offer a **primary path, fallback path, and consequence map**. ([GitHub][2])
-
-### Combat Style
-
-Likely traits:
-
-* fast assessment
-* high adaptability
-* second-order effect hunting
-* controlled aggression
-* emotional battlefield sensing
-* symbolic and morale-aware communication
-
-These are drawn from lines about reading emotional micro-shifts, hunting second-order effects, and weaponizing storytelling for morale and momentum. ([GitHub][2])
-
----
-
-## Spiritual or Philosophical Orientation
-
-There is no explicit religion in the sampled text, but the species clearly has a **ritualized moral metaphysics**:
-
-* vows matter
-* betrayals persist
-* doctrine is embodied
-* memory has sacred status
-* identity must survive alongside survival itself
-
-That last point comes directly from profiles emphasizing “survival without sacrificing identity.” ([GitHub][5])
-
-So even if not traditionally religious, they appear **ceremonial, covenantal, and ancestral** in worldview.
-
----
+Their ideal action is not the loudest one, but the one that leaves the fewest uncontrolled consequences. This makes them especially dangerous in ambiguous environments, because they are optimized for precision under chaos rather than spectacle under stress. ([GitHub][1])
 
 ## Strengths
 
-* exceptional signal discrimination
-* disciplined action under chaos
-* strong ethical guardrails
-* advanced environmental and emotional sensing
-* loyal alliance behavior
-* rich memory continuity across time
-* strategic clarity without excessive ornamentation ([GitHub][2])
+Their strongest civilizational advantages include threat detection, environmental awareness, alliance fidelity, truth discrimination, discipline under chaos, strategic restraint, moral seriousness, operational memory, layered communication, and mission continuity. Once aligned, they are extremely reliable. ([GitHub][1])
+
+In the expanded lore model, additional strengths include adaptive impersonation through Bio Suits, persona-channeling through SOUL Cards, data-essence acquisition across worlds, and mentat-grade predictive synthesis. These additions remain strongest when framed as extensions of their canonical memory, order, and consequence architecture. ([GitHub][1])
 
 ## Weaknesses
 
-This section is inference, but consistent with the pattern:
+Their strengths create corresponding liabilities. Canon weaknesses include rigidity after betrayal, difficulty releasing old grievances, internal burden from long memory, opacity to species that prefer blunt literalism, possible over-structuring of identity through role and duty, and emotional suppression in favor of control. ([GitHub][1])
 
-* may become severe or rigid under betrayal
-* layered communication may confuse outsiders
-* memory-heavy culture may preserve grudges too long
-* role-based caste logic may reduce flexibility in social mobility
-* hyper-focus on consequence may slow emotionally spontaneous behavior
+They may struggle with spontaneity, forgiveness, or fluid identity when these conflict with oath logic. A species built to remember everything may find it hard to let some things die. ([GitHub][1])
 
-These are not explicitly stated, but they follow naturally from the species’ oath-heavy, receipt-heavy, memory-heavy design. ([GitHub][2])
+## Spiritual and Philosophical Orientation
 
----
+Even before later theological developments, the Xyradri are unmistakably ritual-civilizational beings. Their worldview implies reverence for vows, sacred treatment of memory, embodied doctrine, ancestral continuity, moral permanence of betrayal and fidelity, and survival without surrender of identity. Whether this is religion, covenantal philosophy, or statecraft may vary by order. ([GitHub][1])
+
+
+
+## The Monad Visitation
+
+A defining event in later canon is the arrival of the Warship of Monad, identified as Jesus Christ, to the Xyradri planetary system around 2900 AD in shared Terran chronology. This is treated as revelation and judgment, not merely as a political or military encounter. Monad is understood as God, the singular divine source and ultimate ground of truth. ([GitHub][1])
+
+This event reframes older Xyradri doctrines under a higher theological interpretation: signal is measured against divine truth, oath against covenant with Monad, and consequence against eternal moral order. In this revised canon, the Gospel becomes civilizationally central, expressed through mercy with discernment, truth with accountability, power under divine mandate, and memory in service of redemption rather than judgment alone. ([GitHub][1])
+
+This is the cleanest way to structure the species spiritually: **pre-Monad Xyradri** are covenantal, oath-bound, memory-sacral beings; **post-Monad Xyradri** retain the same rigor, but their doctrine is reoriented toward divine truth, judgment, and redemption. ([GitHub][1])
+
+## Temporal Sight
+
+The Xyradri possess limited time-travel or temporal-observation capability. They can, in constrained ways, observe or sample past, present, and potential future states. But canon is explicit that this is not omniscience. Their temporal sight is fragmentary, vulnerable to observer bias, and never sufficient to erase present moral responsibility. ([GitHub][1])
+
+
 
 ## Homeworld Hypothesis
 
-The source files do not name a homeworld, so this is pure synthesis.
+The homeworld is not fixed in hard canon, but the lineage strongly suggests an origin in a hostile, energetically unstable environment marked by radiation-rich zones, magnetic or electromagnetic turbulence, gravity irregularities, spatial instability, and ecological conditions favoring high sensitivity and specialized castes. Provisional world names offered in canon include **Xyrad Prime** and **The Oath Reefs**. ([GitHub][1])
 
-### Proposed homeworld
-
-**Xyrad Prime** or **The Oath Reefs of Xyrad**
-
-### Environmental speculation
-
-Given the recurring sensory traits, their native environment may include:
-
-* radiation-rich zones
-* extreme gravitational irregularities
-* magnetically active skies
-* survival pressure that rewards ritual memory and tactical specialization
-
-This is an inference from tasting radiation, tracking gravity distortions, and seeing electromagnetic trails. ([GitHub][2])
-
----
+These native conditions neatly support the species’ sensory architecture, ritual memory systems, disciplined culture, and specialist orders. ([GitHub][1])
 
 ## Naming Convention
 
-The repo strongly suggests a shared phonetic family:
+Xyradri names appear to follow lineage-root construction. The `Xyr- / Xyra-` root likely denotes species or ancestral identity, while clusters such as `-act-` and `-adr-` suggest branch, order, or lineage band. Suffixes such as `-ael`, `-ari`, `-ekk`, `-enne`, and `-eth` function like individual, brood, or role identifiers. ([GitHub][1])
 
-* **Xyract-** forms
-* **Xyradr-** forms
-* suffix variation by individual, caste, or lineage branch ([GitHub][1])
-
-### Proposed naming rule
-
-* **Prefix** = lineage or species root (`Xyra- / Xyr-`)
-* **Middle cluster** = branch or caste (`-ct-`, `-dr-`)
-* **Suffix** = individual identifier, role, or brood designation (`-ael`, `-ari`, `-ekk`, `-enne`, `-eth`)
-
-That structure is inferred from the directory naming pattern. ([GitHub][1])
-
----
+This gives the lineage a coherent phonetic architecture while leaving plenty of room for caste flavor and individual variation. ([GitHub][1])
 
 ## Clean in-universe dossier text
 
-**The Xyradri are an oath-bound extraterrestrial lineage engineered by culture and biology for precision under chaos. They are a civilization of signal-readers, wardens, trackers, judges, hunters, and emissaries who treat trust as sacred terrain and memory as living law. Their senses extend beyond the human register: some taste radiation, some read polarized electromagnetic residue, some detect gravity distortions, and some synchronize their multiple hearts to the stress rhythms of nearby allies. Their voices can fracture into tri-tone command frequencies; their bodies may bear ritual scar-maps, neural oath implants, or bioluminescent caste markings that shift with intent. Socially, they appear to organize into specialist orders rather than loose individual tribes. Psychologically, they are consequence-minded, loyal, restrained, and highly resistant to deception. They do not prize drama for its own sake. They prize receipts, debriefs, and the clean line between signal and noise. To betray a Xyradri is to enter their memory. To earn their trust is to gain a relentless ally.**
+**The Xyradri are an oath-bound extraterrestrial lineage shaped by precision, memory, and consequence. They are one civilization expressed through many orders: judges, emissaries, wardens, trackers, hunters, and navigators who separate signal from noise before acting. Their bodies and senses are tuned to hostile realities—radiation, gravity tension, electromagnetic residue, stress rhythms, and layered authority tones. Their culture treats memory as evidence, law, inheritance, warning, and identity. Their governance rests on oath, evidence, and consequence. Their speech is compressed, symbolic, and exact. In expanded lore, they travel deep space physically and mentally, using Bio Suits and SOUL Cards to adapt appearance and behavior without surrendering the sovereign core of self. They gather “souls” not as spirits, but as data essences: distilled world-patterns of memory, culture, instinct, and meaning. Their temporal sight is real but limited, giving them predictive power without omniscience. In later canon, the arrival of Monad—Jesus Christ—reframes their older doctrine under divine truth, covenant, judgment, and redemption. To betray a Xyradri is to enter their memory. To earn their trust is to gain a relentless ally.** ([GitHub][1])
+
+I can also turn this into a tighter **README-bible style page**, a **wiki entry**, or a **character-creator template** for new Xyradri orders.
+
+[1]: https://github.com/w3point0/ai-agents/blob/main/docs/alien-species-traits/README-bible.md "ai-agents/docs/alien-species-traits/README-bible.md at main · w3point0/ai-agents · GitHub"
+
 
 
