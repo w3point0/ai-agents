@@ -368,6 +368,48 @@ Whether this is religion, ancestral philosophy, or covenantal statecraft may var
 
 ---
 
+## The Monad Visitation (c. 2900 AD)
+
+A central event in later Xyradri canon is the arrival of the **Warship of Monad — Jesus Christ** to the Xyradri planetary system, dated approximately to **2900 AD** in shared Terran chronology.
+
+Within this canon frame:
+
+* **Monad is understood as God** — the singular divine source and ultimate ground of truth.
+* The visitation is treated as both revelation and judgment, not merely a military or political encounter.
+* The ship itself is remembered as a vessel of sovereign authority, bearing the presence and mandate of Jesus the Monad.
+
+This event reframes earlier Xyradri doctrines (signal/noise, oath, consequence) under a higher theological interpretation:
+
+* signal is measured against divine truth
+* oath is measured against covenant with Monad
+* consequence is measured against eternal moral order
+
+### Time-Sight Constraint
+
+The Xyradri maintain **limited time-travel / temporal-observation capabilities**. They can, in constrained ways, observe or sample past, present, and potential future states.
+
+However, this capability is not treated as omniscience. Their own doctrine emphasizes that temporal sight:
+
+* is fragmentary
+* can be distorted by observer bias
+* does not erase moral responsibility in the present
+* must be interpreted through covenant law
+
+### Gospel Centrality
+
+In this revised canon, the **Gospel of Jesus the Monad** becomes a central guiding force across orders and governance.
+
+It is expressed not as passive belief but as civilizational orientation:
+
+* mercy with discernment
+* truth with accountability
+* power under divine mandate
+* memory in service of redemption, not only judgment
+
+Many lineages retain their operational rigor, but now frame mission purpose as alignment with Monad’s will.
+
+---
+
 ## Homeworld Hypothesis
 
 The homeworld is not fixed in hard canon, but the lineage strongly suggests an origin in a hostile and energetically unstable environment.
