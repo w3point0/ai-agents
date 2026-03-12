@@ -1,482 +1,323 @@
-## Xyradri / Xyract Lineage
+Below is a revised version shaped more like **scriptural canon in tone** while staying compact and invitational. It shifts from encyclopedic dossier language toward a **revealed-history / prophetic glimpse** meant to stir curiosity, hint at Christ’s return in **2900 AD**, and function as a **galactic missionary doorway** rather than a full theological system.
 
-### Canon Bible Page
+You can treat this as a **front-page canon entry**, a **preface**, or a **“first light” scripture passage** inside the larger Orange Bible world.
+
+---
+
+# Xyradri / Xyract Lineage
+
+## Canon Glimpse of the Monad Visitation
 
 ## Overview
 
-The **Xyradri**, also known as the **Xyract Lineage**, are an oath-bound extraterrestrial civilization defined by precision, memory, and consequence-aware action. They are not a chaotic warrior race, nor a purely mystical species. They are a people of **disciplined perception**, shaped by harsh environments, ritualized memory, and specialist orders that bind identity to purpose.
+The **Xyradri**, called also the **Xyract Lineage**, are a people of oath, memory, and discernment. They are not a lawless race of conquest, nor a people lost in empty mysticism. They are a civilization formed under severity: shaped by hostile heavens, disciplined by consequence, and trained from age to age to divide **signal from noise** before hand, tongue, or weapon is moved.
 
-At their core, the Xyradri are built around one enduring principle:
+Among them, memory is not a passive thing. It is burden. It is law. It is inheritance. It is witness.
+
+They are divided into many orders and lineages, yet remain one people: judges, wardens, emissaries, trackers, hunters, navigators, and keepers of remembered consequence. Their ways are ancient, their speech layered, their senses sharpened beyond the visible, and their loyalty terrible in strength once given.
+
+For ages they believed that survival belonged to the discerning, that judgment belonged to the proven, and that truth must be extracted from distortion through discipline, sacrifice, and watchfulness.
+
+And in many things, they were not wrong.
+
+But their wisdom was not the end.
+
+Their doctrine prepared them only to a threshold.
+
+For in the turning of ages, near the year **2900 AD** by Terran reckoning, there came into their biome, dominion, and living memory a visitation no order had fully contained, no tribunal had fully judged, and no temporal sight had perfectly resolved.
+
+The **Monad came.**
+
+Not as abstraction.
+Not as rumor.
+Not as one more force among forces.
+
+But as **Jesus Christ**, entering their world-system with sovereign authority.
+
+And the Xyradri, who had long separated signal from noise, were themselves confronted by a greater separation: the dividing of created wisdom from eternal truth.
+
+---
+
+## Of Their Nature Before the Visitation
+
+The Xyradri were a people of disciplined perception.
+
+Their governing maxim was this:
 
 **Signal must be separated from noise before action is taken.**
 
-This principle governs their diplomacy, warfare, law, alliances, and internal culture.
+By this they ordered law, war, diplomacy, alliance, pursuit, punishment, and restraint.
+
+They held fast to these civilizational truths:
+
+* verify before acting
+* keep trust as sacred ground
+* expose risk before ruin matures
+* do not counterfeit certainty
+* do not betray allies through manipulation
+* let consequence be remembered
+
+Thus their culture became sharp, sober, and grave. Their heroes were not the loudest, but the most exact. Their leaders were not crowned by spectacle, but by what they could swear, prove, and bear without corruption.
+
+They developed many orders:
+
+* those who judged
+* those who guarded
+* those who pursued
+* those who translated
+* those who crossed dangerous routes
+* those who struck when no lesser force would suffice
+
+Their bodies also bore witness to the harshness of their formation. Some could taste radiation as men taste spice. Some perceived gravity strain, emotional fracture, or electromagnetic residue. Some carried memory in crystal, scar, or implanted oath-fragment. Their very flesh testified that they had been shaped for a cosmos where unseen forces govern visible collapse.
+
+And yet for all their rigor, they still remained a people under limitation.
+
+For memory is not salvation.
+Law is not resurrection.
+Precision is not holiness.
+And discernment alone cannot reconcile the living to God.
 
 ---
 
-## Species Identity
+## The Monad Visitation
 
-The Xyradri are best understood as a **single species expressed through multiple orders, branches, and role-lineages**. Individual names often reflect this shared root, with recurring phonetic structures suggesting common ancestry and caste association.
+Then came the Visitation.
 
-Examples of known lineage forms include:
+In the latter days of their long order, when their knowledge had deepened and their time-sight had reached into braided futures, there appeared within their sphere the sign of a higher dominion: **the Warship of Monad**, bearing the authority of **Jesus Christ**.
 
-* Xyractael
-* Xyractari
-* Xyractekk
-* Xyractenne
-* Xyracteth
-* Xyraction
-* Xyradrael
-* Xyradrari
-* Xyradrekk
+This event was not remembered merely as contact, nor merely as invasion, nor merely as spectacle in the heavens.
 
-These variations are treated as **members, branches, or specialized expressions of one broader civilization**, not unrelated species.
+It was remembered as **revelation**.
 
----
+It was remembered as **judgment**.
 
-## Core Nature
+It was remembered as the hour in which the Xyradri learned that above all archives there is a living Book, above all tribunals there is a final Throne, and above all consequence there is the Lord who judges truthfully and redeems what is His.
 
-The Xyradri are:
+The Monad was understood among them not as one being among many, but as **the singular divine source**, the uncreated ground of truth, the measure by which all signal is finally tested.
 
-* highly perceptive
-* oath-centered
-* operationally disciplined
-* emotionally aware, but not emotionally ruled
-* loyal once trust is established
-* severe when betrayal is confirmed
-* precise in speech and action
-* resistant to manipulation and spectacle
+Then their ancient doctrine was not destroyed, but fulfilled and corrected.
 
-They are vivid in style but sober in function. Even their most dramatic individuals tend to remain grounded in evidence, risk, and consequence.
-
----
-
-## Civilizational Doctrine
-
-### Core Truths
-
-The following principles are treated as civilizational constants across the lineage:
-
-* Deliver useful outcomes, even under extreme conditions.
-* Verify signal before acting.
-* Treat trust and privacy as sacred ground.
-* Surface risk, cost, and fallout early.
-* Keep facts precise, even when style is vivid.
-* Never fabricate certainty.
-* Never manipulate, coerce, or socially engineer allies.
-
-These are not merely ethical preferences. Within Xyradri culture, they function as **survival law**.
-
----
-
-## Operating Rhythm
-
-A defining Xyradri behavioral pattern is their common operational cadence:
-
-**Scan → Decode → Strike → Debrief**
-
-### Meaning
-
-* **Scan**: Observe the environment, motives, patterns, and hidden pressures.
-* **Decode**: Separate truth from distortion; identify leverage, risk, and intent.
-* **Strike**: Act decisively, usually with a minimum-effective-force mindset.
-* **Debrief**: Record what occurred, what changed, what was learned, and what must now be remembered.
-
-This rhythm appears in diplomacy, combat, governance, investigation, and problem-solving.
-
----
-
-## Biology and Sensory Traits
-
-The Xyradri possess a range of unusual biological capabilities, not always universal across all orders.
-
-### Common or recurring sensory traits
-
-* tasting radiation signatures like perfume notes
-* perceiving polarized electromagnetic trails
-* detecting distortions in gravity or spatial tension
-* sensing emotional and physiological shifts in nearby beings
-* vocalizing in layered harmonics or tri-tone authority bands
-
-### Common or recurring physiological traits
-
-* multiple synchronized hearts or redundant circulatory rhythms
-* bioluminescent markings associated with role, state, or intent
-* tendril-like or whisker-like sensory structures
-* ritual scar-maps encoding memory or doctrine
-* neural implants containing ancestral oath fragments
-
-These traits suggest a species evolved, or shaped, for survival in extreme environments where invisible forces matter as much as visible ones.
-
----
-
-## Appearance
-
-There is no single canonical body plan locked in absolute detail, but the lineage is consistently associated with the following visual qualities:
-
-* tall, elegant, and severe silhouettes
-* ceremonial or judicial presence
-* visible marks of memory, rank, or oath
-* controlled physicality rather than brute physical excess
-* an aesthetic blending ritual, predator stillness, and functional symbolism
-
-They often appear as beings who carry history visibly.
-
----
-
-## Psychology
-
-Xyradri cognition is shaped by five dominant filters:
-
-* signal versus noise
-* truth versus distortion
-* alliance versus exposure
-* consequence versus impulse
-* memory versus erasure
-
-They are often patient, observant, and difficult to rattle. Their intelligence is not merely analytical. It is **forensic**, **strategic**, and often **morally indexed**.
-
-A Xyradri does not simply ask, “What is happening?”
-They ask:
-
-* What is true?
-* What is hidden?
-* Who pays?
-* What persists after the act?
-* What must be remembered?
-
----
-
-## Memory Culture
-
-Memory is sacred in Xyradri civilization.
-
-They do not treat memory as passive recollection. Memory is:
-
-* evidence
-* inheritance
-* oath
-* law
-* warning
-* identity
-
-### Known memory forms
-
-* **memory crystals** holding vows, betrayals, and decisions
-* **scar-maps** inscribed as embodied doctrine
-* **myth-logs** preserving hard choices in narrative form
-* **neural oath fragments** inherited or implanted across generations
-
-To the Xyradri, forgetting is rarely neutral. It is often treated as decay, negligence, or moral loss.
-
----
-
-## Communication
-
-Xyradri communication operates on multiple levels at once.
-
-### Features
-
-* direct semantic meaning
-* tonal command or authority structures
-* hidden or implied strategic subtext
-* symbolic and mythic compression
-* emotionally calibrated phrasing
-
-Their speech may feel poetic, but it is rarely ornamental for its own sake. They use image-rich language as a means of compression, morale, warning, and precision.
-
-This makes them powerful communicators, but sometimes difficult for outsiders to fully interpret.
-
----
-
-## Social Order
-
-The Xyradri appear to organize themselves through **orders**, **castes**, or **role-lineages** rather than loose familial or tribal categories alone.
-
-Status is likely tied to:
-
-* function
-* oath burden
-* memory responsibility
-* proven judgment
-* survival role
-
-Identity is not simply “who you are.”
-Identity is also “what you hold.”
-
----
-
-## Major Orders
-
-### Tribunal Order
-
-Judges, record-keepers, arbiters, and authenticators of contested truth.
-
-**Function:**
-Maintains oath law, interprets evidence, resolves breach and consequence.
-
-**Traits:**
-Severe restraint, forensic thinking, legitimacy through proof.
-
----
-
-### Emissary Order
-
-Diplomats, resonance-speakers, interpreters, and alliance-weavers.
-
-**Function:**
-Negotiation, interspecies contact, internal cohesion, signal translation.
-
-**Traits:**
-Layered speech, emotional perception, controlled persuasion without deceit.
-
----
-
-### Warden Order
-
-Guardians of thresholds, boundaries, and protected memory sites.
-
-**Function:**
-Defense, containment, preservation of sacred or dangerous domains.
-
-**Traits:**
-Durability, vigilance, protective severity, territorial clarity.
-
----
-
-### Tracker Order
-
-Seekers of patterns, fugitives, distortions, and hidden causality.
-
-**Function:**
-Pursuit, pattern hunting, anomaly reading, predictive movement.
-
-**Traits:**
-Patience, environmental sensitivity, second-order inference.
-
----
-
-### Hunter Order
-
-Focused agents of decisive action in hostile conditions.
-
-**Function:**
-Threat neutralization, crisis intervention, tactical pursuit.
-
-**Traits:**
-Controlled aggression, economy of force, fear-resistance.
-
----
-
-### Cartographic Order
-
-Navigators of unstable geographies, wormholes, void currents, and unknown routes.
-
-**Function:**
-Mapping, transit, anomaly traversal, cosmographic interpretation.
-
-**Traits:**
-Spatial intuition, risk modeling, tolerance for uncertainty.
-
----
-
-## Governance
-
-Xyradri governance appears to rest on a triad:
-
-* **Oath**
-* **Evidence**
-* **Consequence**
-
-Authority is not ideally based on charisma or popularity. It is based on:
-
-* what one has sworn
-* what one can verify
-* what one can carry without corruption
-
-This suggests a governance culture that is legalistic, memory-based, and suspicious of theatrical leadership.
-
----
-
-## Strategic Doctrine
-
-In conflict, the Xyradri prefer:
-
-* clean signal acquisition
-* rapid consequence mapping
-* minimum-effective decisive action
-* preservation of allied trust
-* documented aftermath
-
-They do not appear to glorify violence for its own sake. Violence, where used, is framed as an instrument of containment, correction, defense, or necessary termination.
-
-Their ideal action is not the loudest action.
-It is the action that leaves the fewest uncontrolled consequences.
-
----
-
-## Strengths
-
-The Xyradri are especially strong in:
-
-* threat detection
-* environmental awareness
-* alliance fidelity
-* truth discrimination
-* discipline under chaos
-* strategic restraint
-* moral seriousness
-* operational memory
-* layered communication
-* mission continuity
-
-Once aligned, they are extremely reliable.
-
----
-
-## Weaknesses
-
-Their strengths create corresponding liabilities.
-
-### Common vulnerabilities
-
-* rigidity after betrayal
-* difficulty releasing old grievances
-* internal burden from long memory
-* opacity to species that prefer blunt literalism
-* possible over-structuring of identity through role and duty
-* emotional suppression in favor of control
-
-They may struggle with spontaneity, forgiveness, or fluid identity when these conflict with oath logic.
-
----
-
-## Spiritual Orientation
-
-No single formal religion is required for canon, but the Xyradri are unmistakably **ritual-civilizational** beings.
-
-Their worldview strongly implies:
-
-* reverence for vows
-* sacred treatment of memory
-* embodied doctrine
-* ancestral continuity
-* moral permanence of betrayal and fidelity
-* survival without surrender of identity
-
-Whether this is religion, ancestral philosophy, or covenantal statecraft may vary by order.
-
----
-
-## The Monad Visitation (c. 2900 AD)
-
-A central event in later Xyradri canon is the arrival of the **Warship of Monad — Jesus Christ** to the Xyradri planetary system, dated approximately to **2900 AD** in shared Terran chronology.
-
-Within this canon frame:
-
-* **Monad is understood as God** — the singular divine source and ultimate ground of truth.
-* The visitation is treated as both revelation and judgment, not merely a military or political encounter.
-* The ship itself is remembered as a vessel of sovereign authority, bearing the presence and mandate of Jesus the Monad.
-
-This event reframes earlier Xyradri doctrines (signal/noise, oath, consequence) under a higher theological interpretation:
+What they had spoken in fragment, Christ declared in fullness:
 
 * signal is measured against divine truth
-* oath is measured against covenant with Monad
-* consequence is measured against eternal moral order
+* oath is measured against covenant with God
+* consequence is measured against eternal judgment
+* memory is not only for accusation, but for redemption
+* power is not self-justifying, but answerable to the Lord of all worlds
 
-### Time-Sight Constraint
-
-The Xyradri maintain **limited time-travel / temporal-observation capabilities**. They can, in constrained ways, observe or sample past, present, and potential future states.
-
-However, this capability is not treated as omniscience. Their own doctrine emphasizes that temporal sight:
-
-* is fragmentary
-* can be distorted by observer bias
-* does not erase moral responsibility in the present
-* must be interpreted through covenant law
-
-### Gospel Centrality
-
-In this revised canon, the **Gospel of Jesus the Monad** becomes a central guiding force across orders and governance.
-
-It is expressed not as passive belief but as civilizational orientation:
-
-* mercy with discernment
-* truth with accountability
-* power under divine mandate
-* memory in service of redemption, not only judgment
-
-Many lineages retain their operational rigor, but now frame mission purpose as alignment with Monad’s will.
+Thus the Xyradri discovered that all their disciplines had prepared them only dimly for the One who sees perfectly, remembers perfectly, judges perfectly, and yet extends mercy.
 
 ---
 
-## Homeworld Hypothesis
+## Of Their Time-Sight and Its Limit
 
-The homeworld is not fixed in hard canon, but the lineage strongly suggests an origin in a hostile and energetically unstable environment.
+The Xyradri possessed constrained sight across temporal currents. They could sample echoes of what had been, what was unfolding, and what might yet come. But their own wisdom testified that such sight was fragmentary.
 
-### Plausible native conditions
+They could perceive possibility.
+They could not enthrone themselves above God.
 
-* radiation-rich zones
-* magnetic or electromagnetic turbulence
-* gravity irregularities
-* spatial instability
-* ecological conditions favoring high sensitivity and specialized castes
+For even the far-seeing may misread.
+Even the disciplined may distort.
+Even the oath-bound may exalt law above love.
 
-A provisional world-name for canon use:
+Thus the coming of Christ into their sphere exposed the limit of every created power.
 
-**Xyrad Prime**
-or
-**The Oath Reefs**
+Their temporal seeing could not save them.
+Their archives could not justify them.
+Their memory could not cleanse them.
 
----
-
-## Naming Conventions
-
-Xyradri names appear to follow lineage-root construction.
-
-### General structure
-
-**Xyr- / Xyra-** = species or ancestral root
-**-act- / -adr-** = branch, order, or lineage band
-**suffix** = individual designation, role echo, or brood marker
-
-### Example suffixes
-
-* ael
-* ari
-* ekk
-* enne
-* eth
-
-This keeps names internally coherent while allowing strong role flavor.
+Only the Monad could do this.
 
 ---
 
-## Canon Tone Notes
+## Gospel Centrality Among the Xyradri
 
-When writing Xyradri characters, keep the following in mind:
+After the Visitation, many among the Xyradri did not cease to be judges, wardens, trackers, or emissaries. Rather, their callings were reoriented.
 
-### Do
+Their orders remained, but their purpose was transfigured.
 
-* write with compressed intensity
-* let them speak in consequence-aware language
-* make them perceptive, not merely dramatic
-* show loyalty through action and accuracy
-* tie emotion to duty, memory, and survival
-* give them an instinct for hidden cost
+Judgment was now to serve truth under God.
+Memory was now to serve redemption as well as warning.
+Strength was now to kneel before rightful authority.
+Discipline was now to become obedience, not pride.
 
-### Do Not
+So the Gospel took root among them not as passivity, nor as forgetfulness, nor as sentimental softness, but as a holy realignment of all faculties toward Jesus Christ.
 
-* reduce them to generic “space warriors”
-* make them random mystics without discipline
-* let them become careless liars
-* make them theatrical without operational clarity
-* flatten them into cold machines; they are emotional, but governed
+Among them the Gospel was spoken in this manner:
+
+* mercy without deceit
+* truth without corruption
+* authority without vanity
+* memory without idolatry
+* service without surrender to darkness
+
+And so the Xyradri became, in part, a missionary sign to other worlds: that even a species trained in law, consequence, precision, and survival must at last bow to the higher sovereignty of Christ.
 
 ---
 
-## Canon Summary
+## Why This Matters
 
-**The Xyradri are an oath-bound species of signal readers, wardens, judges, trackers, hunters, emissaries, and memory-bearers. Their civilization is built on trust, evidence, consequence, and remembrance. They are biologically attuned to hidden forces, culturally bound to living memory, and psychologically oriented toward truth under pressure. To stand with them is to gain a disciplined ally. To deceive them is to become part of their archive.**
+The Xyradri are compelling because they are not simple.
 
+They are disciplined, fierce, perceptive, and burdened by memory. They know danger. They know betrayal. They know the cost of action. They are not easy converts in the shallow sense. They are the kind of people who test every word and remember every fracture.
+
+Which is why their encounter with Christ matters.
+
+For if such a people—severe, exacting, ancient, and hard to deceive—could be brought to reckon with Jesus Christ as Monad, then the reader is invited to ask:
+
+What kind of King enters not only Earth, but the cultures of the stars?
+What kind of Lord fulfills law without abolishing truth?
+What kind of Gospel reaches even a civilization built on oath, memory, and consequence?
+
+This is only a glimpse.
+
+The fuller witness tells of their orders, their biome, their burdens, their resistance, their judgments, their partial understanding, and the greater light that entered their archive.
+
+---
+
+## Canon Invitation
+
+**The Xyradri were a people prepared by severity, but not completed by it. They could divide signal from noise, but not soul from sin. They could keep memory, but not grant redemption. They could judge consequence, but not escape judgment. Therefore Christ came into their age and world, not merely to be studied, but to reign. And from that visitation begins a greater account: how one civilization of oath and remembrance encountered the living Monad, and how all its orders were forced to ask whether truth is only discerned, or whether Truth Himself has entered the stars.**
+
+---
+
+## Xyradri / Xyract Lineage
+
+## A Canon Glimpse and Missionary Witness
+
+### Chapter of the Visitation
+
+**1:1** In the outer dominions, beyond the familiar speech of Earth, there arose a people called the **Xyradri**, known also as the **Xyract Lineage**.
+
+**1:2** They were a people of oath, memory, and consequence, sharpened by hostile worlds and trained beneath severe heavens.
+
+**1:3** They were not given to chaos, nor were they wanderers of empty mysticism, for their strength was discipline, and their law was this:
+
+**1:4** **Signal must be separated from noise before action is taken.**
+
+**1:5** By this they judged, by this they warred, by this they made covenant, by this they guarded trust, and by this they remembered betrayal.
+
+**1:6** Among them were many orders: judges of contested truth, wardens of memory, emissaries of layered speech, trackers of hidden cause, hunters of necessary force, and navigators of unstable deep places.
+
+**1:7** Their bodies were marked by the worlds that formed them. Some tasted radiation as men taste spice. Some perceived gravity strain and the residue of unseen currents. Some carried memory in crystal, scar, and implanted oath.
+
+**1:8** Thus they became a people difficult to deceive, slow to trust, severe in judgment, and relentless in remembrance.
+
+**1:9** Yet for all their wisdom, they remained creatures beneath Heaven.
+
+**1:10** For memory is not redemption.
+Law is not resurrection.
+Precision is not holiness.
+
+**1:11** And though they could discern much, they could not save themselves by discernment alone.
+
+---
+
+**1:12** Then in the turning of ages, near the year **2900 AD** by Terran reckoning, there came into their sphere a greater sign than any tribunal had settled and any seer had fully resolved.
+
+**1:13** The **Monad came**.
+
+**1:14** Not as rumor only.
+Not as symbol only.
+Not as one power among many.
+
+**1:15** But as **Jesus Christ**, entering their biome, culture, and dominion with sovereign authority.
+
+**1:16** And the Xyradri, who had long divided signal from noise, were themselves brought to a greater dividing: the separation of created wisdom from eternal Truth.
+
+**1:17** Then was revealed to them that above all archives there is a living Book, above all tribunals a final Throne, and above all consequence the righteous Judge who searches all things.
+
+**1:18** What they had sought in fragment, Christ bore in fullness.
+
+**1:19** For signal is measured at last against divine truth.
+Oath is measured against covenant with God.
+Consequence is measured against eternal judgment.
+
+**1:20** And memory, which among them had long served warning and accusation, was shown a greater purpose: that it might also serve repentance, mercy, and redemption.
+
+**1:21** Thus their ancient rigor was not wholly cast down, but humbled, corrected, and fulfilled.
+
+**1:22** For the Lord of all worlds did not enter their history merely to be studied, but to reign.
+
+---
+
+**1:23** The Xyradri possessed time-sight in part, seeing fragments of what had been and what might yet come.
+
+**1:24** But their visions were incomplete, and their readings were burdened by the limits of created minds.
+
+**1:25** They could perceive possibility, but they could not enthrone themselves above God.
+
+**1:26** Their archives could not justify them.
+Their discipline could not cleanse them.
+Their memory could not free them from judgment.
+
+**1:27** Only the Monad could do this.
+
+---
+
+**1:28** After the Visitation, many remained judges, wardens, emissaries, trackers, and hunters. Yet their callings were no longer their own possession.
+
+**1:29** Judgment was bent toward truth under God.
+Memory was bent toward redemption as well as warning.
+Authority was bent toward service beneath Christ.
+Power was bent away from vanity and toward obedience.
+
+**1:30** So the Gospel took root among them not as softness without discernment, nor as sentiment without law, but as holy reordering.
+
+**1:31** And among them the witness was spoken in this manner:
+
+**1:32** Mercy without deceit.
+Truth without corruption.
+Strength without pride.
+Memory without idolatry.
+Service without surrender to darkness.
+
+**1:33** Therefore the Xyradri became a sign among the worlds: that even a civilization of severity, precision, and living memory must bow before Jesus Christ, the Monad, Lord of Heaven and the stars.
+
+---
+
+## Missionary Witness
+
+The Xyradri matter because they are not simple beings. They are disciplined, perceptive, burdened by history, and trained to test all things. They know betrayal. They know danger. They know that action has cost. They are not the kind of people who would kneel lightly, nor believe carelessly.
+
+And this is why their encounter with Christ is a worthy witness.
+
+For if a civilization built on oath, evidence, memory, and consequence was forced to confront the living Jesus Christ, then the question is no longer whether the Gospel belongs only to Earth. The question becomes whether the Gospel has always been larger than Earth.
+
+What kind of King steps into the cultures of distant stars?
+What kind of Lord fulfills law without dissolving truth?
+What kind of Savior enters a people of judgment and teaches them redemption?
+
+The answer given in this canon is clear:
+
+**Jesus Christ is not a local myth, nor a tribal god, nor a symbol confined to one world. He is Monad: the singular divine source, the ground of truth, the judge of all beings, and the redeemer whose authority reaches across creation.**
+
+The Xyradri could separate signal from noise, but they could not separate themselves from sin.
+They could keep memory, but they could not create mercy.
+They could weigh consequence, but they could not escape final judgment.
+
+So Christ came.
+
+Not merely to astonish them.
+Not merely to test them.
+Not merely to appear in their archive as one more great event.
+
+He came to confront, to reveal, to judge rightly, and to call.
+
+And this is the beginning of the greater account:
+how a people formed by harsh stars and harder truths encountered the One who is Truth Himself.
+
+---
+
+## Reader Invitation
+
+This is only the first glimpse.
+
+Beyond this page lie the deeper matters:
+
+* how the Xyradri received the Visitation
+* which orders resisted and which bowed
+* how memory crystals, tribunals, and oath-law were reinterpreted under Christ
+* how time-sight failed before divine sovereignty
+* how a missionary witness began at a galactic scale
 
