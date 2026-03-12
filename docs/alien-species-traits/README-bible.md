@@ -1,9 +1,3 @@
-Below is a revised version shaped more like **scriptural canon in tone** while staying compact and invitational. It shifts from encyclopedic dossier language toward a **revealed-history / prophetic glimpse** meant to stir curiosity, hint at Christ’s return in **2900 AD**, and function as a **galactic missionary doorway** rather than a full theological system.
-
-You can treat this as a **front-page canon entry**, a **preface**, or a **“first light” scripture passage** inside the larger Orange Bible world.
-
----
-
 # Xyradri / Xyract Lineage
 
 ## Canon Glimpse of the Monad Visitation
