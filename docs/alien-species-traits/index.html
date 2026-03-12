@@ -105,6 +105,11 @@ let filtered = [...ITEMS];
 let page = 1;
 let lastFocused = null;
 
+const DOC_IMAGES = {
+  'README-bible.md': 'orange-bible.png',
+  'README-Dossier.md': 'dossier.png', // optional future image
+};
+
 const els = {
   q: document.getElementById('q'),
   pageSize: document.getElementById('pageSize'),
@@ -156,8 +161,10 @@ function mdToDossierHtml(mdRaw, item) {
   }
   closeList();
 
-  const portrait = item.png
-    ? `<img class="dossier-image" src="${item.png}" alt="${esc(item.name)} portrait" loading="lazy" />`
+  const mappedDocImage = DOC_IMAGES[item.md];
+  const portraitSrc = item.png || mappedDocImage;
+  const portrait = portraitSrc
+    ? `<img class="dossier-image" src="${portraitSrc}" alt="${esc(item.name)} portrait" loading="lazy" onerror="this.style.display='none'; this.nextElementSibling && (this.nextElementSibling.style.display='grid');" /><div class="dossier-image" style="aspect-ratio:2/3;display:none;place-items:center;color:#9fb1d6;">No portrait</div>`
     : `<div class="dossier-image" style="aspect-ratio:2/3;display:grid;place-items:center;color:#9fb1d6;">No portrait</div>`;
 
   return `
